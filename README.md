@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Meenu00615.
-- 👀 I’m interested in Artificial Intelligence ans Machine Learning.
-- 📫 How to reach me meenu00615@gmail.com
+- Hello everyone, I’m @Meenu00615.
+- I’m interested in Artificial Intelligence ans Machine Learning.
+- How to reach me meenu00615@gmail.com
 - Profile - linkedin.com/in/meenu-p-723741230
 - Resume - https://drive.google.com/drive/folders/18_U6deQTf5BBX4Z-bdiLv_QYhjTdW7rL

@@ -1,3 +1,2 @@
 - Hello everyone, I’m @Meenu00615.
-- I’m interested in Artificial Intelligence ans Machine Learning.
 - How to reach me meenu00615@gmail.com

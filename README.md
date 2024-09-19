@@ -2,8 +2,11 @@
 ### Hi, there I'm Meenu(@Meenu00615) 
 - How to reach me meenu00615@gmail.com 
 - 🔭 I’m currently working on projects
+-  Part of Vogueish Organization
   
 ### Deployed Project
+  - Dive In Cafe: https://meenu00615.github.io/DiveInCafe/
+  - Registration form: https://meenu00615.github.io/Registration/
   - Portfolio: https://meenu00615.github.io/Portfolio/
   - Projects: https://meenu00615.github.io/Apple/
   - E-Commerce: https://meenu00615.github.io/Amazon/

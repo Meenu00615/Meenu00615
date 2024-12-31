@@ -4,6 +4,7 @@
 - https://www.linkedin.com/in/meenu-patel-723741230/
   
 ### Deployed Project
+  - Hana Pet Care App: https://hana-pet-care.vercel.app/
   - She Build AI Hackathon Chatbot: https://www.youtube.com/watch?v=3ksVOdE5UHs&t=80s
   - Dive In Cafe: https://meenu00615.github.io/DiveInCafe/
   - Registration form: https://meenu00615.github.io/Registration/

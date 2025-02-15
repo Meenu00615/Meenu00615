@@ -8,12 +8,6 @@
   - Nature Essence: https://nature-essence.vercel.app/
   - She Build AI Hackathon Chatbot: https://www.youtube.com/watch?v=3ksVOdE5UHs&t=80s
   - Dive In Cafe: https://meenu00615.github.io/DiveInCafe/
-  - Registration form: https://meenu00615.github.io/Registration/
-  - Portfolio: https://meenu00615.github.io/Portfolio/
-  - Projects: https://meenu00615.github.io/Apple/
-  - E-Commerce: https://meenu00615.github.io/Amazon/
-  - Project_1_Dabotics_India: https://meenu00615.github.io/QRGenertor/
-  - Quiz Application APP: https://meenu00615.github.io/QuizApplication/
   
 ### Languages:
 | Python3 | CSS3 | Java | C | JS | Solidity | Solana |

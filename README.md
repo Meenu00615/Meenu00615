@@ -4,6 +4,7 @@
 - https://www.linkedin.com/in/meenu-patel-723741230/
   
 ## Deployed Project
+  - YogaFit: https://yoga-fit-app.vercel.app/
   - Hana Pet Care App: https://hana-pet-care.vercel.app/
   - Nature Essence: https://nature-essence.vercel.app/
   - She Build AI Hackathon Chatbot: https://www.youtube.com/watch?v=3ksVOdE5UHs&t=80s

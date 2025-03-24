@@ -4,7 +4,7 @@
 - https://www.linkedin.com/in/meenu-patel-723741230/
   
 ## Deployed Project
-  - GRACE mANIA: https://grace-mania.vercel.app/
+  - GRACE MANIA: https://grace-mania.vercel.app/
   - YogaFit: https://yoga-fit-app.vercel.app/
   - Hana Pet Care App: https://hana-pet-care.vercel.app/
   - Nature Essence: https://nature-essence.vercel.app/

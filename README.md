@@ -1,7 +1,6 @@
 ## About Me:
-### Hi, there I'm Meenu(@Meenu00615) Part of Vogueish Organization
+### Hi, there I'm Meenu(@Meenu00615) Part of BUMIMA
 - How to reach me meenu00615@gmail.com
-- https://www.linkedin.com/in/meenu-patel-723741230/
   
 ## Deployed Project
   - GRACE MANIA: https://grace-mania.vercel.app/
